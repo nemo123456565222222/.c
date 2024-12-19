@@ -1,3 +1,27 @@
+#include<stdio.h>
+using namespace std;
+
+class myTime{
+	public;
+	 int hours;
+	 int min;
+	void printTime;
+};
+void myTime::printTime(){
+	cout<<hours<<":"<<min<<"\n"<<;
+}
+
+int main(){
+	myTime now,open;
+	now.hours=8;
+	now.min=18;
+	cout<<"現在時間:">> 
+	now.printTime();
+	open.hour=9;
+	open.min=10;
+	cout<<"開發時間:">> 
+	open.min();
+}
 
 
 
